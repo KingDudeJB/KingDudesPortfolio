@@ -23,7 +23,7 @@ I’m excited about what the future holds! Here are two career paths I’m consi
     <p>I'm also passionate about Ethical Hacking. In the future, I aspire to work as a Ethical Hacker, by applying my understanding of digital tools and advanced software to pentest and understand websites and how computer viruses work to solve real-world problems and help businesses grow.</p>
   </div>
 </div>
-
+---
 ---
 
 ## Projects
