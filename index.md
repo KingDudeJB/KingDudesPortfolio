@@ -40,7 +40,10 @@ Currently, I’m balancing my studies at university with a part-time job while p
 
 Here are some of the projects I've been working on:
 
-- **[Project Name 1]**: Brief description of what the project is, technologies used, and the outcome or purpose.
+- **[Password Strengthener]**: i designed a PasswordScanner and Strengthener to help improve your passwords strength and security!
+
+-https://github.com/KingDudeJB/PasswordScanner.git
+
 - **[Project Name 2]**: Brief description of the project, any challenges faced, and how they were overcome.
 - **[Project Name 3]**: Description of another significant project, showing your progress and skills.
 
