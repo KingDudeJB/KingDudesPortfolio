@@ -29,16 +29,8 @@ I’m excited about what the future holds! Here are two career paths I’m consi
 ## Projects
 
 My First project in github, i designed a PasswordScanner and Strengthener to help improve your passwords strength and security!
+
 https://github.com/KingDudeJB/PasswordScanner.git
 
 ---
 
-### Code Examples
-
-Here's a simple JavaScript code snippet demonstrating a function:
-
-```javascript
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
