@@ -6,7 +6,7 @@ Welcome to my portfolio! This page showcases some of my recent work and achievem
 
 ## About Me
 
-I wanted to upload and display my work in a more professional environemtn where it can be easier to view, understand and support my work as i learn to become a Cyber Security Analyse/ Ethical Hacker. I will be uploading some course work, personal projects and collaborative projects every once and a while:).
+I wanted to upload and display my work in a more professional environment where it can be easier to view, understand and support my work as i learn to become a Cyber Security Analyse/ Ethical Hacker. I will be uploading some course work, personal projects and colaborative projects every once and a while:).
 
 ## My Future Career Goals
 
@@ -24,6 +24,10 @@ I’m excited about what the future holds! Here are two career paths I’m consi
   </div>
 </div>
 
+## Current Learning Goals
+
+Im currently studying at University twice a week, working a part time job and dedicating some time to online studdying with Cisco IT certificates.
+
 ---
 
 ## Projects
@@ -31,6 +35,3 @@ I’m excited about what the future holds! Here are two career paths I’m consi
 My First project in github, i designed a PasswordScanner and Strengthener to help improve your passwords strength and security!
 
 https://github.com/KingDudeJB/PasswordScanner.git
-
----
-
