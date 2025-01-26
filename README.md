@@ -7,4 +7,4 @@ I strive to write clean, efficient code while exploring new technologies and imp
 repositories and check out the projects I've been working on!
 
 To view my portfolio, feel free to click the linke bellow.
-https://kingdudejb.github.io/KingdudesPortfolio/
+https://kingdudejb.github.io/KingDudesPortfolio/
