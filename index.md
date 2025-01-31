@@ -41,11 +41,10 @@ Currently, I’m balancing my studies at university with a part-time job while p
 Here are some of the projects I've been working on:
 
 - **[Password Strengthener]**: i designed a PasswordScanner and Strengthener to help improve your passwords strength and security!
-
 -https://github.com/KingDudeJB/PasswordScanner.git
 
-- **[Project Name 2]**: Brief description of the project, any challenges faced, and how they were overcome.
-- **[Project Name 3]**: Description of another significant project, showing your progress and skills.
+- **[Software Development GUI Assignment]**: This project was one of my first GUI programming projects!
+-https://github.com/KingDudeJB/Software-Development-GUI-Assignment
 
 Feel free to explore these repositories to see my work in action!
 
