@@ -46,6 +46,9 @@ Here are some of the projects I've been working on:
 - **[Software Development GUI Assignment]**: This project was one of my first GUI programming projects!
 -https://github.com/KingDudeJB/Software-Development-GUI-Assignment
 
+- **[Password Generator]**: I developed a GUI program that allows the user to generate a password, based on what conditions the user imputs and compares your password to other commonly used characters!
+-https://github.com/KingDudeJB/Password-Generator
+
 Feel free to explore these repositories to see my work in action!
 
 ---
