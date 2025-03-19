@@ -49,6 +49,9 @@ Here are some of the projects I've been working on:
 - **[Password Generator]**: I developed a GUI program that allows the user to generate a password, based on what conditions the user imputs and compares your password to other commonly used characters!
 -https://github.com/KingDudeJB/Password-Generator
 
+- **[Website Scraper]**: I developed a small website HTML scraper GUI!
+- https://github.com/KingDudeJB/Website-HTML-Scraper-GUI
+
 Feel free to explore these repositories to see my work in action!
 
 ---
